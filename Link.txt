@@ -1,0 +1,10 @@
+Online link of this project : https://fb-clone-e7fd3.web.app
+
+
+This project has Realtime Database connection of Firebase. 
+
+Following are needed to be installed for this project:
+Materials UI
+Materials Icons
+Firebase
+Css Loader 
